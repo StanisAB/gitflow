@@ -1,2 +1,2 @@
 def func():
-    return None
+    return print("Все исправленно!")
