@@ -1,3 +1,3 @@
-import revers_text
+from revers_text  import revers_text
 
-reverse_text('foxpro')
+revers_text('foxpro')
